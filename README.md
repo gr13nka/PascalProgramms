@@ -1,6 +1,4 @@
-# PascalProgramms
-Programs written studying Stolyarov textbook
-Template: Program name
+Template: Program name 0.0
 ============
 
 Small beautiful pic
